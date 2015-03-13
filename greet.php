@@ -8,4 +8,6 @@ echo "this is the branch called test_branch";
 
 echo "diverging!";
 
-echo "test_branch to be merged";
+
+echo "master branch to be merged";
+echo "test branch to be merged";
