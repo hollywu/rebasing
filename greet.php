@@ -7,3 +7,4 @@ echo "this is the branch called test_branch";
 
 
 echo "diverging!";
+echo "test_branch to be merged";
