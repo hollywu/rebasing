@@ -21,7 +21,3 @@ echo "commit 2";
 echo "Commit 3????";
 
 echo "argh";
-// a
-//2
-//3
-//asdasdasdasdadasdasd
