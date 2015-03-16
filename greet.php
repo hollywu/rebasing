@@ -20,3 +20,4 @@ echo "more commits 1";
 echo "more commits 2";
 
 echo "mixed reset";
+echo "wheeeee";
