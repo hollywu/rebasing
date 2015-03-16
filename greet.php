@@ -16,3 +16,5 @@ echo "i don't like this change!";
 
 
 echo "reset to here!";
+echo "commit 1";
+echo "commit 2";
